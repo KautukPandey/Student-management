@@ -1,18 +1,18 @@
 {
   "students": [
     {
-      "id": "861e",
-      "name": "Raja Ram",
-      "roll": "22",
-      "section": "CB",
-      "result": "69"
-    },
-    {
-      "id": "e342",
+      "id": "d58f",
       "name": "Kautuk Pandey",
       "roll": "34",
-      "section": "CC",
-      "result": "72"
+      "section": "C",
+      "result": 67
+    },
+    {
+      "id": "3ee6",
+      "name": "GLAA",
+      "roll": "67",
+      "section": "A",
+      "result": 78
     }
   ]
 }
