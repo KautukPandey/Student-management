@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "861e",
+      "name": "Raja Ram",
+      "roll": "22",
+      "section": "CB",
+      "result": "69"
+    },
+    {
+      "id": "e342",
+      "name": "Kautuk Pandey",
+      "roll": "34",
+      "section": "CC",
+      "result": "72"
+    }
+  ]
+}
