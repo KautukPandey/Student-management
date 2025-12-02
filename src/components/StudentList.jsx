@@ -10,7 +10,7 @@ export default function StudentList({ students, fetchStudents, setEditingStudent
     <div className="p-4 bg-white rounded shadow mt-4">
       <h2 className="text-xl font-semibold mb-4">Student List</h2>
 
-      <table className="w-full text-left">
+      <table className="w-full text-left">  
         <thead>
           <tr className="border-b">
             <th>Name</th>
